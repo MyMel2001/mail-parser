@@ -1,3 +1,3 @@
 # mail-parser
 
-foss email parser in js.
+open-real email parser in js.
